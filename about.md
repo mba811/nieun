@@ -1,16 +1,16 @@
 ---
-title: nice food
+title: Nice Food
 layout: post
 cover-img: telephone-pole.jpg
 ---
 
 ## Contact Address
 
-**Name** : 玉足 / nice food
+**Name** : 洛桑扎巴 / Tsong Khapa
 
-**Telephone** : +853
+**Telephone** : +85313013318xx1
 
-**Email** : email@example.com
+**Email** : ztd811@gmail.com
 
 ## Skillset
 

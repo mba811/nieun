@@ -1,15 +1,15 @@
 ####################
 #   Your Profile   #
 ####################
-title: nice food
-name: Names
+title: Nice Food
+name: Tsong Khapa
 glad_text: your blog glad text
 lang: zh-cn
 email: ztd811@qq.com
 description: your description
 twitter_username: ztd811
-github_username:  mba811
-disqus:
+github_username: mba811
+disqus: mba811
 
 show-about: true
 about-title: Introduce My Self
