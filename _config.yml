@@ -3,13 +3,13 @@
 ####################
 title: Nice Food
 name: Tsong Khapa
-glad_text: your blog glad text
-lang: zh-cn
+glad_text: Hello ，欢迎访问 Tsong Khapa‘s Photo and Album
+lang: zh_CN
 email: ztd811@qq.com
-description: your description
+description: Hello ，欢迎访问 Tsong Khapa‘s Photo and Album
 twitter_username: ztd811
 github_username: mba811
-disqus: mba811
+disqus: 
 
 show-about: true
 about-title: Introduce My Self
