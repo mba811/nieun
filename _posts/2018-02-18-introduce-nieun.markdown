@@ -45,7 +45,7 @@ cover-img: hzqdh.jpg
 
 블로그 글을 포스팅하는데 이미지가 빠져선 안되겠죠?
 
-![Image](/assets/images/covers/telephone-pole.jpg)
+![Image](/assets/images/covers/hzqdh.jpg)
 <small>전봇대 사진</small>
 
 Jekyll에는 생각보다(?) 뛰어난 기능들이 많아요. 예를들어 코드를 하이라이팅 시켜줄 수 있어요.
